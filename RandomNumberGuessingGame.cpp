@@ -1,5 +1,9 @@
 // RandomNumberGuessingGame.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
+// This is a random number guessing game where the program generates a random number between 1 and 100 and
+// directs the user if the number they guessed is too high or too low until they predict the number correctly.
+//
+// Programmer: Aslihan Aria Celik
 
 #include <iostream>
 #include <cstdlib> // For srand() and rand()
